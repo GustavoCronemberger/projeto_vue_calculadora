@@ -1,4 +1,4 @@
-# RB-420C: Calculadora
+# CALCULADORA
 
 ![CALCULADORA](src/assets/calculadora-img.png)
 
