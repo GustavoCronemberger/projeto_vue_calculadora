@@ -1,17 +1,13 @@
-<script setup>
-
-</script>
-
 <template>
-  <header>
-    
-  </header>
-
-  <main>
-    <TheWelcome />
-  </main>
+  <Calculator />
 </template>
 
-<style scoped>
+<script>
+import Calculator from './components/Calculator.vue';
 
-</style>
+export default {
+  components: {
+    Calculator,
+  },
+};
+</script>
